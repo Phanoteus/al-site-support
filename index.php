@@ -1,0 +1,1 @@
+<?php // Blank index.php file to prevent directory listing.
